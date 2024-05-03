@@ -1,0 +1,21 @@
+Rack Number,Prediction Result,QR Result
+1,0,
+2,1,"['Miranda', 'Goli soda', 'Sprite', 'Cocacola']"
+3,1,"['Goli soda', 'Miranda', 'Sprite', 'Cocacola']"
+4,0,
+5,1,['Sprite']
+6,1,[]
+7,1,"['Fanta', 'Pepsi']"
+8,1,"['Fanta', 'Pepsi']"
+9,1,"['Cocacola', 'Sprite', 'Pepsi']"
+10,1,[]
+11,1,"['Fanta', 'Goli soda']"
+12,1,"['Fanta', 'Goli soda']"
+13,1,['Sprite']
+14,1,"['Fanta', 'Goli soda', 'Cocacola', 'Sprite', 'Pepsi']"
+15,1,['Goli soda']
+16,1,"['Goli soda', 'Sprite']"
+17,1,"['Goli soda', 'Cocacola', 'Pepsi']"
+18,1,[]
+19,1,"['Goli soda', 'Sprite']"
+20,0,
